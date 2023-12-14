@@ -1,0 +1,12 @@
+body {
+    background-color: #fff;
+}
+
+.styles{
+    primaryColor: #fff;
+    secondaryColor: #000;
+    tertiaryColor: #ddffdd;
+    quaternaryColor: #ffdddd;
+    quinaryColor: #ddddff;
+     
+}
