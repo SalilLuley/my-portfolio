@@ -1,5 +1,6 @@
 import "../css/NavBar.css";
 import "../css/Hero.css";
+import "../css/Work.css";
 import Salil from "../assets/IMG_1335.png";
 
 const Dashboard = () => {
@@ -27,6 +28,9 @@ const Dashboard = () => {
             </p>
           </div>
         </div>
+      </div>
+      <div className="work-backdrop">
+        <div>This is where I will put my work</div>
       </div>
     </div>
   );
