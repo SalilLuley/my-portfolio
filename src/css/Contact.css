@@ -1,0 +1,19 @@
+.contact-backdrop{
+    background-color: #fff;
+    
+    display: flex;
+    justify-content: start;
+    padding-left: 90px;
+}
+
+.contact-hero{
+    margin: 1rem;
+    width: 30%;
+}
+
+.contact-form{
+    width: 50%;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+}

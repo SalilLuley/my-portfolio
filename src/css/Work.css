@@ -1,7 +1,11 @@
 .work-backdrop{
     background-color: #fff;
-    width: 100%;
+    
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.work-hero{
+    margin: 1rem;
 }
